@@ -1,3 +1,5 @@
-since you are happy you have only one choice
+You are happy. What do you do?
 
-(go to sleep)[sleep.md]
+[go to sleep](sleep.md)
+
+[go out for walk](got-hit-by-bus.md) 
