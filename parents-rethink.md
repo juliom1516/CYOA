@@ -1,5 +1,5 @@
-Your parents rethink. Go to sleep
+Your parents rethink. What do you do?
 
-(you wait for life to become better)
+[wait for their answer](live-life-normally.md)
 
 [sleep](sleep.md)
